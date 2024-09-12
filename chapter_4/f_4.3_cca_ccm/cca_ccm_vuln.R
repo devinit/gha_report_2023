@@ -2,14 +2,9 @@ lapply(c("data.table", "rstudioapi", "XML", "httr"), require, character.only = T
 setwd(dirname(getActiveDocumentContext()$path))
 
 #Establish donors types
-donors <- rbindlist(lapply(xmlToList(htmlParse(GET("https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/TABLE2A")))$body$structure$codelists[[2]], function(x) data.frame(cbind(as.data.table(x)[1, ], as.data.table(x)[2, ]))), fill = T)
-donors <- setnames(rbind(
-  data.table("DAC donor", unlist(donors[.attrs.1 %in% 20001]$.attrs)),
-  data.table("Non-DAC donor", c(unlist(donors[.attrs.1 %in% 20006]$.attrs), 87)),
-  data.table("Multilateral donor", c(unlist(donors[.attrs.1 %in% c(20002, 20007:20034)]$.attrs), 1015)),
-  data.table("Private donor", unlist(donors[.attrs.1 %in% c(20035, 21600)]$.attrs))), c("DonorType", "DonorCode"))
+donors = fread("./donor_type_codelist.csv")[,c("DonorType", "DonorCode")]
 
-years <- 2017:2021
+years <- 2018:2022
 
 crs_list <- list()
 for(i in 1:length(years)){

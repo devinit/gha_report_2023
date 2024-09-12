@@ -1,0 +1,188 @@
+DonorType,DonorCode,DonorName
+DAC donor,1,Austria
+DAC donor,2,Belgium
+DAC donor,3,Denmark
+DAC donor,4,France
+DAC donor,5,Germany
+DAC donor,6,Italy
+DAC donor,7,Netherlands
+DAC donor,8,Norway
+DAC donor,9,Portugal
+DAC donor,10,Sweden
+DAC donor,11,Switzerland
+DAC donor,12,United Kingdom
+DAC donor,18,Finland
+DAC donor,20,Iceland
+DAC donor,21,Ireland
+DAC donor,22,Luxembourg
+DAC donor,40,Greece
+DAC donor,50,Spain
+DAC donor,61,Slovenia
+DAC donor,68,Czechia
+DAC donor,69,Slovak Republic
+DAC donor,75,Hungary
+DAC donor,76,Poland
+DAC donor,82,Estonia
+DAC donor,84,Lithuania
+DAC donor,301,Canada
+DAC donor,302,United States
+DAC donor,701,Japan
+DAC donor,742,Korea
+DAC donor,801,Australia
+DAC donor,820,New Zealand
+DAC donor,918,EU Institutions
+Non-DAC donor,26,Monaco
+Non-DAC donor,30,Cyprus
+Non-DAC donor,45,Malta
+Non-DAC donor,55,Türkiye
+Non-DAC donor,62,Croatia
+Non-DAC donor,70,Liechtenstein
+Non-DAC donor,72,Bulgaria
+Non-DAC donor,77,Romania
+Non-DAC donor,83,Latvia
+Non-DAC donor,87,Russia
+Non-DAC donor,130,Algeria
+Non-DAC donor,133,Libya
+Non-DAC donor,358,Mexico
+Non-DAC donor,543,Iraq
+Non-DAC donor,546,Israel
+Non-DAC donor,552,Kuwait
+Non-DAC donor,561,Qatar
+Non-DAC donor,566,Saudi Arabia
+Non-DAC donor,576,United Arab Emirates
+Non-DAC donor,611,Azerbaijan
+Non-DAC donor,613,Kazakhstan
+Non-DAC donor,732,Chinese Taipei
+Non-DAC donor,764,Thailand
+Non-DAC donor,765,Timor-Leste
+Multilateral donor,104,Nordic Development Fund
+Multilateral donor,807,UNEP
+Multilateral donor,811,Global Environment Facility
+Multilateral donor,812,Montreal Protocol
+Multilateral donor,901,International Bank for Reconstruction and Development
+Multilateral donor,902,Multilateral Investment Guarantee Agency
+Multilateral donor,903,International Finance Corporation
+Multilateral donor,905,International Development Association
+Multilateral donor,906,Caribbean Development Bank
+Multilateral donor,907,International Monetary Fund
+Multilateral donor,909,Inter-American Development Bank
+Multilateral donor,910,Central American Bank for Economic Integration
+Multilateral donor,913,African Development Bank
+Multilateral donor,914,African Development Fund
+Multilateral donor,915,Asian Development Bank
+Multilateral donor,921,Arab Fund (AFESD)
+Multilateral donor,923,UN Peacebuilding Fund
+Multilateral donor,926,Council of Europe
+Multilateral donor,928,World Health Organisation
+Multilateral donor,932,Food and Agriculture Organisation
+Multilateral donor,940,International Labour Organisation
+Multilateral donor,944,International Atomic Energy Agency
+Multilateral donor,948,UNECE
+Multilateral donor,951,OPEC Fund for International Development
+Multilateral donor,952,OAPEC
+Multilateral donor,953,Arab Bank for Economic Development in Africa
+Multilateral donor,954,Special Arab Aid Fund for Africa
+Multilateral donor,956,IMF Trust Fund
+Multilateral donor,958,IMF (Concessional Trust Funds)
+Multilateral donor,959,UNDP
+Multilateral donor,960,UNTA
+Multilateral donor,962,United Nations Conference on Trade and Development
+Multilateral donor,963,UNICEF
+Multilateral donor,964,UNRWA
+Multilateral donor,966,WFP
+Multilateral donor,967,UNHCR
+Multilateral donor,971,UNAIDS
+Multilateral donor,974,UNFPA
+Multilateral donor,976,Islamic Development Bank
+Multilateral donor,978,OSCE
+Multilateral donor,979,Islamic Monetary Fund
+Multilateral donor,980,Arab Fund for Technical Assistance to African and Arab Countries
+Multilateral donor,981,Black Sea Trade & Development Bank
+Multilateral donor,982,GODE
+Multilateral donor,983,Other Arab Agencies
+Multilateral donor,988,IFAD
+Multilateral donor,990,European Bank for Reconstruction and Development
+Multilateral donor,992,UN AGENCIES
+Multilateral donor,997,Global Partnership for Education
+Multilateral donor,1011,Climate Investment Funds
+Multilateral donor,1012,Adaptation Fund
+Multilateral donor,1013,Council of Europe Development Bank
+Multilateral donor,1014,Private Infrastructure Development Group
+Multilateral donor,1015,Development Bank of Latin America
+Multilateral donor,1016,Green Climate Fund
+Multilateral donor,1017,Credit Guarantee and Investment Facility
+Multilateral donor,1018,Global Energy Efficiency and Renewable Energy Fund
+Multilateral donor,1019,IDB Invest
+Multilateral donor,1020,Central Emergency Response Fund
+Multilateral donor,1023,World Tourism Organisation
+Multilateral donor,1024,Asian Infrastructure Investment Bank
+Multilateral donor,1025,Center of Excellence in Finance
+Multilateral donor,1037,International Investment Bank
+Multilateral donor,1038,UN Institute for Disarmament Research
+Multilateral donor,1039,UN Capital Development Fund
+Multilateral donor,1045,North American Development Bank
+Multilateral donor,1046,UN Women
+Multilateral donor,1047,COVID-19 Response and Recovery Multi-Partner Trust Fund
+Multilateral donor,1048,Joint Sustainable Development Goals Fund
+Multilateral donor,1049,International Commission on Missing Persons
+Multilateral donor,1050,WHO-Strategic Preparedness and Response Plan
+Multilateral donor,1052,International Centre for Genetic Engineering and Biotechnology
+Multilateral donor,1053,Asian Forest Cooperation Organisation
+Multilateral donor,1054,World Organisation for Animal Health
+Multilateral donor,1055,CGIAR
+Multilateral donor,1057,UN Development Coordination Office
+Multilateral donor,1058,IMF Resilience and Sustainability Trust
+Multilateral donor,1311,Global Alliance for Vaccines and Immunization
+Multilateral donor,1312,Global Fund
+Multilateral donor,1313,Global Green Growth Institute
+Multilateral donor,1401,WTO - International Trade Centre
+Multilateral donor,1404,World Trade Organisation
+Multilateral donor,1406,United Nations Industrial Development Organization
+Private donor,1601,Bill & Melinda Gates Foundation
+Private donor,1602,Dutch Postcode Lottery
+Private donor,1603,Swedish Postcode Lottery
+Private donor,1604,People's Postcode Lottery
+Private donor,1605,MetLife Foundation
+Private donor,1606,Mastercard Foundation
+Private donor,1608,IKEA Foundation
+Private donor,1609,Bernard van Leer Foundation
+Private donor,1610,MAVA Foundation
+Private donor,1611,Oak Foundation
+Private donor,1612,H&M Foundation
+Private donor,1613,Laudes Foundation
+Private donor,1614,Charity Projects Ltd (Comic Relief)
+Private donor,1615,Children's Investment Fund Foundation
+Private donor,1616,Gatsby Charitable Foundation
+Private donor,1617,Conrad N. Hilton Foundation
+Private donor,1618,David and Lucile Packard Foundation
+Private donor,1619,John D. and Catherine T. MacArthur Foundation
+Private donor,1620,Carnegie Corporation of New York
+Private donor,1621,Michael & Susan Dell Foundation
+Private donor,1622,"Omidyar Network Fund, Inc."
+Private donor,1623,Rockefeller Foundation
+Private donor,1624,William and Flora Hewlett Foundation
+Private donor,1625,Arcus Foundation
+Private donor,1626,Gordon and Betty Moore Foundation
+Private donor,1627,Ford Foundation
+Private donor,1628,Wellcome Trust
+Private donor,1629,UBS Optimus Foundation
+Private donor,1630,World Diabetes Foundation
+Private donor,1631,McKnight Foundation
+Private donor,1632,Citi Foundation
+Private donor,1633,LEGO Foundation
+Private donor,1634,Norwegian Postcode Lottery
+Private donor,1636,Jacobs Foundation
+Private donor,1637,Arcadia Fund
+Private donor,1638,Margaret A. Cargill Foundation
+Private donor,1639,La Caixa Banking Foundation
+Private donor,1640,Bloomberg Family Foundation
+Private donor,1641,Susan T. Buffett Foundation
+Private donor,1642,Howard G. Buffett Foundation
+Private donor,1643,Open Society Foundations
+Private donor,1644,Fondation Botnar
+Private donor,1645,CHANEL Foundation
+Private donor,1646,Bezos Earth Fund
+Private donor,1647,German Postcode Lottery
+Private donor,1648,Leona M. and Harry B. Helmsley Charitable Trust
+Private donor,1649,Novo Nordisk Foundation
+Private donor,1650,Good Ventures Foundation
