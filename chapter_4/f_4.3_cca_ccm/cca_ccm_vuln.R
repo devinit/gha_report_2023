@@ -4,7 +4,7 @@ setwd(dirname(getActiveDocumentContext()$path))
 #Establish donors types
 donors = fread("./donor_type_codelist.csv")[,c("DonorType", "DonorCode")]
 
-years <- 2018:2022
+years <- 2017:2022
 
 crs_list <- list()
 for(i in 1:length(years)){
